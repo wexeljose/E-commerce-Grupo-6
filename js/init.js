@@ -7,6 +7,7 @@ const CART_INFO_URL = "https://japceibal.github.io/emercado-api/user_cart/";
 const CART_BUY_URL = "https://japceibal.github.io/emercado-api/cart/buy.json";
 const EXT_TYPE = ".json";
 
+//jose estuvo aca 5-8-2025
 let showSpinner = function(){
   document.getElementById("spinner-wrapper").style.display = "block";
 }
